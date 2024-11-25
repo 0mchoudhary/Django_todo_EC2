@@ -43,7 +43,7 @@ source venv/bin/activate
 
 Change the directory
 ```bash
-cd django-todo/
+cd Django_todo_EC2/
 ```
 
 You will need django to be installed in you computer to run this app.
