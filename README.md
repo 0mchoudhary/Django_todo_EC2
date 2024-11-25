@@ -23,7 +23,7 @@ git clone https://github.com/0mchoudhary/Django_todoApp_EC2.git
 
 Change the permission of directory
 ```bash
-chmod 777 django-todo
+chmod 777 Django_todo_EC2/
 ```
 
 Install Python command-line applications with pip in isolated virtual environments
